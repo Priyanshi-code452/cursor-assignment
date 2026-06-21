@@ -1,14 +1,14 @@
-# Sources
+# Research Sources
 
-| Expert | Company | Why Chosen |
-|---------|----------|------------|
-| Jason Lemkin | SaaStr / EchoSign | Leading B2B SaaS founder and educator with consistent LinkedIn insights. |
-| Adam Robinson | RB2B | Shares practical outbound and LinkedIn growth strategies. |
-| Amos Bar Joseph | Swan AI | Publishes founder-led content on AI and B2B SaaS. |
-| David Chevalier | Surfe | Uses LinkedIn effectively to educate and build brand awareness. |
-| Dave Gerhardt | Exit Five | One of the best-known voices in B2B marketing and founder branding. |
-| Marc Lou | Bootstrapped SaaS | Builds in public and documents startup growth. |
-| Aaron Levie | Box | Frequently shares enterprise SaaS and AI perspectives. |
-| Girish Mathrubootham | Freshworks | Indian SaaS founder with strong founder-led thought leadership. |
-| Paras Chopra | Wingify / Lossfunk | Writes deeply about startups, AI, and product building. |
-| Abhinav Asthana | Postman | Shares insights on APIs, developer tools, and scaling technology products. |
+| Expert | Company | Why Selected |
+|---------|----------|--------------|
+| Jason Lemkin | SaaStr | Shares practical insights on SaaS growth, AI, and founder-led marketing. |
+| Adam Robinson | RB2B | Focuses on outbound sales, LinkedIn strategy, and B2B go-to-market execution. |
+| Amos Bar-Joseph | Swan AI | Demonstrates founder-led growth and AI-driven business strategies. |
+| David Chevalier | Surfe | Shares expertise on CRM, sales processes, and product-led growth. |
+| Dave Gerhardt | Exit Five | Well-known voice in B2B marketing and community-led growth. |
+| Marc Lou | Independent Founder | Documents bootstrapping, building in public, and indie SaaS growth. |
+| Aaron Levie | Box | Provides strategic insights on enterprise AI and software innovation. |
+| Girish Mathrubootham | Freshworks | Shares perspectives on AI-native businesses and startup scaling. |
+| Paras Chopra | Lossfunk | Explores AI research, entrepreneurship, and long-term thinking. |
+| Abhinav Asthana | Postman | Discusses APIs, developer tools, and AI-native software development. |
