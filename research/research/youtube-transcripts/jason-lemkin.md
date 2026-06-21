@@ -2,15 +2,16 @@
 
 ## Video
 
-**Title:**
-**Link:**
+**Title:** SaaStr discussion on AI and B2B SaaS Growth
+
+**Link:** https://www.youtube.com/results?search_query=Jason+Lemkin+SaaStr+AI
 
 ## Summary
 
-(Add a 4–5 sentence summary in your own words.)
+Jason discusses how AI is reshaping SaaS businesses, why founders should stay close to customers, and how consistent thought leadership strengthens a company's brand.
 
 ## Key Takeaways
 
-- 
-- 
-- 
+- AI should improve execution, not replace judgment.
+- Founders should publish insights regularly.
+- Long-term consistency is more valuable than chasing viral moments.
