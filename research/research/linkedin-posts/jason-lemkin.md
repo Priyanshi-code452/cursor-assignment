@@ -4,34 +4,21 @@
 https://www.linkedin.com/in/jasonlemkin/
 
 ## Post 1
-
-**Link:**  
-**Summary:**  
-
-**Key Takeaway:**  
-
----
+**Topic:**
+**Link:**
+**Summary:**
 
 ## Post 2
-
-**Link:**  
-**Summary:**  
-
-**Key Takeaway:**  
-
----
+**Topic:**
+**Link:**
+**Summary:**
 
 ## Post 3
+**Topic:**
+**Link:**
+**Summary:**
 
-**Link:**  
-**Summary:**  
-
-**Key Takeaway:**  
-
----
-
-## Overall Learnings
-
+## Key Learnings
 - 
 - 
 - 
